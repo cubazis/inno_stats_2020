@@ -4,3 +4,4 @@ pandas
 scikit-learn
 plotly
 jupyter-http-over-ws
+gspread
