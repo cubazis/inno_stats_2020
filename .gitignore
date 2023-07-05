@@ -1,7 +1,7 @@
 # Project
 .idea/
 data/
-reco/
+reader.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
